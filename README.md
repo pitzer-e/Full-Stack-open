@@ -1,2 +1,4 @@
-# Full-Stack-open
-Repository containing assignments and projects for the Full Stack open program
+# fullstack-open
+
+## Introduction
+This is a repository containing assignments and projects for the University of Helsinki's Fullstack Open program.
